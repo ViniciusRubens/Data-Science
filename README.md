@@ -1,4 +1,6 @@
-![Logo](data_science_logo.png)
+<p align="center">
+  <img src="data_science_logo.png">
+</p>
 
 Bem-vindo ao meu repositório de projetos de ciência de dados! Aqui, compartilho uma variedade de projetos que exploram os conceitos fundamentais das ciências de dados. Cada projeto destaca diferentes aspectos, como estatística, análise exploratória de dados (EDA), modelagem de machine learning e muito mais.
 
